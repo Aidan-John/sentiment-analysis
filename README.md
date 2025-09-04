@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-This repository contains code for building and fine-tuning a transformer-based machine learning model to perform sentiment analysis on IMDB movie reviews.
+This repository contains code for building and fine-tuning a transformer-based machine learning model to perform sentiment analysis on IMDB movie reviews. Part of the AWS AI/ML Scholars Program w/ Udacity.
 
 ## Getting Started
 
