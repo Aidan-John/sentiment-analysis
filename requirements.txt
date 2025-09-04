@@ -1,0 +1,6 @@
+pandas
+ipykernel
+matplotlib
+seaborn
+transformers
+torch
